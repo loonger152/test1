@@ -1,7 +1,7 @@
 import numpy as np
 
 def ackley(x):
-    """Ackley 函数"""
+    """Ackley 函数111"""
     a = 20
     b = 0.2
     c = 2 * np.pi
